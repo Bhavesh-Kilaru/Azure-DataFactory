@@ -1,0 +1,9 @@
+{
+	"name": "Bhavesh-Datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ae167e2c-7d84-4e32-8322-98c41db33151",
+		"tenantId": "e5d2384b-bf9c-49f7-8a7c-16c807e1dda9"
+	}
+}
